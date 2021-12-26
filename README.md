@@ -1,6 +1,6 @@
 # Christmas Countdown
 I have created a responsive christmas countdown timer using HTML5, CSS3 and JavaScript.
-# Tech Stack
+## Tech Stack
 HTML5, CSS3, JavaScript
-# Hosted Link
+## Hosted Link
 https://x-mas-timer.netlify.app/
